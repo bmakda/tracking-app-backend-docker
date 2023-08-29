@@ -39,7 +39,7 @@ Run the Docker container:
 docker run -p 3000:3000 -d tracking-app-backend-docker
 ```
 
-The backend will be accessible at http://localhost:3000.
+The backend will be accessible at http://localhost:3050.
 
 ### 5. API Endpoints
 
